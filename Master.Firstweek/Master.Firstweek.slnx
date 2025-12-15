@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Master.Firstweek.Client.Test/Master.Firstweek.Client.Test.csproj" />
+  <Project Path="Master.Firstweek.Client/Master.Firstweek.Client.csproj" />
+  <Project Path="Master.Firstweek.WebApp/Master.Firstweek.WebApp.csproj" />
+</Solution>

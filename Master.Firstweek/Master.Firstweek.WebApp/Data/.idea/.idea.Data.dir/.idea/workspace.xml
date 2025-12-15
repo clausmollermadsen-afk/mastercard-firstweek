@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dcc12707-5016-4523-8001-3bf889414dd5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.dockerignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/.idea.Master.Firstweek/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/.idea.Master.Firstweek/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/.idea.Master.Firstweek/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Master.Firstweek.Client.Test/ClientTest.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Master.Firstweek.Client.Test/Data/TestData.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Master.Firstweek.Client/Authentication/CertificateProvider.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Master.Firstweek.Client/Authentication/ICertificateProvider.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Master.Firstweek.Client/Authentication/MasterCardAuthenticator.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Master.Firstweek.Client/Authentication/TokenRequest.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Master.Firstweek.Client/Authentication/TokenResponse.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Master.Firstweek.Client/ClientConfiguration.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Master.Firstweek.Client/ClientServiceCollectionExtensions.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Master.Firstweek.Client/Clients/ClientBase.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Master.Firstweek.Client/Clients/PayerTokensClient.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Master.Firstweek.Client/Clients/PaymentsClient.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Master.Firstweek.Client/Clients/ProvidersClient.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Master.Firstweek.Client/Either.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Master.Firstweek.Client/Latest.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Master.Firstweek.Client/Model/BaseRequest.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Master.Firstweek.Client/Model/BbanAccountNumberInput.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Master.Firstweek.Client/Model/CreateAcceptPaymentDanishDomesticCreditTransferInstantInput.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Master.Firstweek.Client/Model/CreateAcceptPaymentOutput.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Master.Firstweek.Client/Model/CreateAcceptPaymentUkFasterPaymentInput.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Master.Firstweek.Client/Model/CreatePayerTokenInput.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Master.Firstweek.Client/Model/DanishDomesticCreditTransferInstantEndUser.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Master.Firstweek.Client/Model/DanishDomesticCreditTransferInstantPaymentAddressInput.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Master.Firstweek.Client/Model/Errors.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Master.Firstweek.Client/Model/PayerTokenOutput.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Master.Firstweek.Client/Model/PaymentContextUkFasterPaymentsInput.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Master.Firstweek.Client/Model/PreselectedBbanSourceAccountInput.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Master.Firstweek.Client/Model/ProviderRequest.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Master.Firstweek.Client/Model/UkFasterPaymentsEndUser.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Master.Firstweek.Client/Model/UkFasterPaymentsPaymentAddressInput.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bank.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EntityBase.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dockerfile" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="36sNQLy1DMMVG814T2BD4lJHgK7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dcc12707-5016-4523-8001-3bf889414dd5" name="Changes" comment="" />
+      <created>1765791302229</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1765791302229</updated>
+      <workItem from="1765791304736" duration="4000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
